@@ -40,9 +40,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += TARGET_DEVICE=OnePlus5 PRODUCT_NAME=OnePlus5
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="OnePlus5-user 9 PKQ1.180716.001 1812232046 release-keys"
 
-# AICP Device Maintainers
+# Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="Carlos Solano (csolanol), SpiritCroc"
+    DEVICE_MAINTAINERS="lindwurm"
 
 BUILD_FINGERPRINT := OnePlus/OnePlus5/OnePlus5:9/PKQ1.180716.001/1812232046:user/release-keys
 
